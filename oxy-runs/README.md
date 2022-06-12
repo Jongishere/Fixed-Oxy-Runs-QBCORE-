@@ -1,6 +1,5 @@
 # qb-oxyruns
 No-Pixel Oxy runs converted to QB-Core framework.
-
 Add this to you qb-smallresources/client/consumables.lua
 
 ```lua
@@ -58,5 +57,4 @@ and last but not least add this to your qb-core/shared.lua in the core
 ["oxy"] 			             = {["name"] = "oxy", 				            ["label"] = "Oxy", 				        ["weight"] = 700, 		["type"] = "item", 		["image"] = "oxy.png", 		            ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Get that stress GONE"},
 ```
 
-# Credits
-Mojito#4595- Fixed it all.
+
